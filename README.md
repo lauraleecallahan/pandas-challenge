@@ -172,3 +172,18 @@ Create a DataFrame called size_summary that breaks down school performance based
 Use the per_school_summary DataFrame to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+
+
+
+
+### Resources
+1. Reddit - .mean function error resolution
+     a. a.	https://www.reddit.com/r/learnpython/comments/16r1ded/groupby_not_working/![image](https://github.com/user-attachments/assets/75762d96-0342-413a-b423-ebb9417a9ab8)
+
+2.	Assistance from learning Assistant – Terrence Shalang
+   
+3.	Br Bern
+   
+4.	Reviewing past lectures
+   
+5.	Starter code
