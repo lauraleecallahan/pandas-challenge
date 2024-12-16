@@ -178,7 +178,8 @@ This new DataFrame should show school performance based on the "School Type".
 
 ### Resources
 1. Reddit - .mean function error resolution
-     a. a.	https://www.reddit.com/r/learnpython/comments/16r1ded/groupby_not_working/![image](https://github.com/user-attachments/assets/75762d96-0342-413a-b423-ebb9417a9ab8)
+   
+     a. https://www.reddit.com/r/learnpython/comments/16r1ded/groupby_not_working/![image](https://github.com/user-attachments/assets/75762d96-0342-413a-b423-ebb9417a9ab8)
 
 2.	Assistance from learning Assistant – Terrence Shalang
    
