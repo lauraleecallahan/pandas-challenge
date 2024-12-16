@@ -183,7 +183,7 @@ This new DataFrame should show school performance based on the "School Type".
 
 2.	Assistance from learning Assistant – Terrence Shalang
    
-3.	Br Bern
+3.	Brit Bern
    
 4.	Reviewing past lectures
    
