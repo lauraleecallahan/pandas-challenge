@@ -103,6 +103,7 @@ Use the code provided below to create four bins with reasonable cutoff values to
 spending_bins = [0, 585, 630, 645, 680]
 
 labels = ["<$585", "$585-630", "$630-645", "$645-680"]
+
 -----------------------------------------------------------
 
 Use pd.cut to categorize spending based on the bins.
@@ -119,6 +120,7 @@ spending_passing_math = school_spending_df.groupby(["Spending Ranges (Per Studen
 spending_passing_reading = school_spending_df.groupby(["Spending Ranges (Per Student)"])["% Passing Reading"].mean()
 
 overall_passing_spending = school_spending_df.groupby(["Spending Ranges (Per Student)"])["% Overall Passing"].mean()
+
 -------------------------------------------------------------------------------------------------------------------------
 
 Use the scores above to create a DataFrame called spending_summary.
@@ -143,6 +145,7 @@ Use the following code to create three bins with reasonable cutoff values to gro
 size_bins = [0, 1000, 2000, 5000]
 
 labels = ["Small (<1000)", "Medium (1000-2000)", "Large (2000-5000)"]
+
 ----------------------------------------------------------------------
 
 Use pd.cut to categorize school size based on the bins.
@@ -161,6 +164,7 @@ size_passing_reading = school_size_df.groupby(["School Size"])["% Passing Readin
 size_overall_passing = school_size_df.groupby(["School Size"])["% Overall Passing"].mean()
 
 Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Scores by School Type
